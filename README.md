@@ -69,7 +69,7 @@ PetScan AI addresses the growing need for affordable, accessible pet healthcare 
 ### For Developers
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/petscan-ai.git
+git clone https://github.com/rutwikrp/Petscan-Ai.git
 
 # Navigate to project directory
 cd petscan-ai
@@ -142,9 +142,7 @@ We welcome contributions from the community! Please read our contributing guidel
 
 ## 📞 Contact & Support
 
-- **Email**: support@petscanai.com
-- **Website**: www.petscanai.com
-- **Issue Tracker**: GitHub Issues
+[To be added]
 
 ## 🙏 Acknowledgments
 
