@@ -114,16 +114,7 @@ Always consult a qualified veterinarian for any health concerns about your pet.
 **Release Date**: Q1 2026  
 **Target Launch**: Mumbai, India
 
-### Roadmap
-- ✅ Core scanning functionality
-- ✅ AI model training for 8-12 conditions
-- ✅ User authentication and pet profiles
-- ✅ Report generation and history
-- 🔄 Beta testing with Mumbai users
-- 📅 Multi-language expansion
-- 📅 Offline mode for basic features
-- 📅 B2B features for veterinarians
-- 📅 Support for additional animals
+
 
 ## 💰 Business Model
 
